@@ -1,7 +1,7 @@
 # LFK Customs Shop Manager v2.0
 
 **Handcrafted Wood Works · Houston, TX**  
-Built by Damien J Schumacher · Powered by dbappsystems.com · Built with Claude AI
+Built by Damian J Schumacher · Powered by dbappsystems.com · Built with Claude AI
 
 ---
 
@@ -50,5 +50,5 @@ npm run dev
 
 ## Contact
 
-Damien J Schumacher · +1 (713) 823-4177  
+Damian J Schumacher · +1 (713) 823-4177  
 © 2025 dbappsystems.com · All Rights Reserved
